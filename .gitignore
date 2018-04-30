@@ -1,0 +1,4 @@
+ext/example/example.bundle
+ext/example/example.o
+ext/example/Makefile
+*.gem
